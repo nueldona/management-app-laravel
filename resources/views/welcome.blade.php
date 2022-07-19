@@ -13,9 +13,9 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body >
+      @vite(['resources/css/app.css', 'resources/js/app.js'])
         <main class="relative antialiased bg-gradient-to-br from-gray-200 to-white w-full h-screen overflow-hidden">
             <section class="absolute top-1/3 left-1/3 w-full">
                 <div>
